@@ -1,14 +1,14 @@
 <!DOCTYPE html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
+    <head>
+
+    </head>
 <body>
-    
+    <h2>Prueba para que se vea PHP y HTML a la vez</h2>
+<?php
+echo "como insertar php?";
+echo "insertar objeto??";
+?>
     <h1><strong>Prueba git con explicaciones</strong></h1>
     
     <h4> <li>copiar url en cmd*</li> <li>clonar directorio de git</li></h4>
@@ -25,5 +25,4 @@
     <li>6) git checkout -b (nombre de la rama)</li>
     <li>7) git checkout main</li>
     <li>8) git merge (nombre de la rama)</li>
-    </body>
-</html>
+</body>
